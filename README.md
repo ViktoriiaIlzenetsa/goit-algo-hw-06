@@ -27,7 +27,7 @@ Dobele Saldus Riga Jelgava Ventspils Liepaja Ogre Kolka Jurmala</br>
 
 Завдання 3
 
-Ціна на проїзд між всіма вершинами графа
+Ціни на проїзд між всіма вершинами графа
 
 Riga
 |Вершина   |Ціна      |Перевірено|
